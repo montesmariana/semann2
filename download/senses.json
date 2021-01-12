@@ -1,0 +1,96 @@
+{
+    "type": "categorical",
+    "hasAttributes": [
+        "confidence"
+    ],
+    "values": {
+        "aflossing": [
+            {
+                "code": "aflossing-sense1",
+                "label": "het aflossen: in zijn taak of werkzaamheid vervangen of door anderen doen vervangen"
+            },
+            {
+                "code": "aflossing-sense2",
+                "label": "de personen die aflossen, de aflossende manschappen"
+            },
+            {
+                "code": "aflossing-sense3",
+                "label": "het inlossen van een schuld, het terugbetalen van geleend geld"
+            },
+            {
+                "code": "aflossing-sense4",
+                "label": "termijn waarin een schuld afgelost wordt"
+            },
+            {
+                "code": "aflossing-sense5",
+                "label": "aflossingsbedrag: bedrag waarmee een schuld in termijnen wordt afgelost"
+            },
+            {
+                "code": "aflossing-sense6",
+                "label": "estafette: snelheidswedstrijd tussen verschillende teams"
+            },
+            {
+                "code": "aflossing-sense7",
+                "label": "overige"
+            }
+        ],
+        "afbetaling": [
+            {
+                "code": "afbetaling-sense1",
+                "label": "volledige betaling"
+            },
+            {
+                "code": "afbetaling-sense2",
+                "label": "betaling in mindering op een schuld of rekening"
+            },
+            {
+                "code": "afbetaling-sense3",
+                "label": "overige"
+            }
+        ],
+        "dip": [
+            {
+                "code": "dip-sense1",
+                "label": "dipsaus"
+            },
+            {
+                "code": "dip-sense2",
+                "label": "toestand van tijdelijke, lichamelijke of geestelijke verslapping"
+            },
+            {
+                "code": "dip-sense3",
+                "label": "vermindering van bloei, productie, intensiteit enz."
+            },
+            {
+                "code": "dip-sense5",
+                "label": "overige"
+            }
+        ],
+        "inzinking": [
+            {
+                "code": "inzinking-sense1",
+                "label": "het inzinken"
+            },
+            {
+                "code": "inzinking-sense2",
+                "label": "plaats waar iets lager is dan het omliggende"
+            },
+            {
+                "code": "inzinking-sense3",
+                "label": "toestand van tijdelijke, lichamelijke of geestelijke verslapping"
+            },
+            {
+                "code": "inzinking-sense4",
+                "label": "vermindering van bloei, productie, intensiteit enz."
+            },
+            {
+                "code": "inzinking-sense5",
+                "label": "het in-elkaar-voegen van constructiedelen door een keep of sponning"
+            },
+            {
+                "code": "inzinking-sense6",
+                "label": "overige"
+            }
+        ]
+    }
+}
